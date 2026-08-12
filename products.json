@@ -11,7 +11,7 @@
     "shopButtonText": "書店賣場",
     "postUrl": "",
     "postButtonText": "查看更多",
-    "image": "",
+    "image": "images/product2.jpg",
     "visible": true,
     "order": 10
   },
