@@ -1,5 +1,21 @@
 [
   {
+    "id": "snow-factory-2026-10",
+    "brand": "SNOW FACTORY 雪坊精品優格",
+    "title": "SNOW FACTORY 雪坊精品優格",
+    "description": "SNOW FACTORY 雪坊精品優格以細緻滑順的口感與精緻風味為特色，無加糖，淡淡奶香，吃起來非常順口，是補充鈣質與蛋白質的好食品。\n優格商品主打幫助消化的5號 Plus 與改善過敏體質的6號Plus。\n推薦給簡單準備早餐的你、喜歡運動的你、晚上容易嘴饞的你、或是腸胃卡卡的你，不分男女老少，都很適合喔!!\n\n當然還有希臘優格，注意喔! 不是希臘式優格，是真正的希臘優格，差一個字差很多!!!如果你需要更高含量的蛋白質，就是選希臘優格就對了。",
+    "startDate": "2026-10-13",
+    "endDate": "2026-10-24",
+    "purchaseInfo": "請點下面按鈕連結喔!\n此次合作還有早鳥禮與滿額禮，詳情可以看臉書貼文哦!",
+    "shopUrl": "https://gbf.tw/94kxv",
+    "shopButtonText": "點我到專屬賣場哦",
+    "postUrl": "https://www.facebook.com/share/p/1EfhaVQxRc/",
+    "postButtonText": "更多心得請看臉書貼文",
+    "image": "images/product1.jpg",
+    "visible": true,
+    "order": 10
+  },
+  {
     "id": "item-mthcb0wo-ty477",
     "brand": "LiveABC",
     "title": "《How It Works 知識大圖解》科普雜誌",
@@ -13,7 +29,7 @@
     "postButtonText": "查看更多",
     "image": "images/hiw2.jpg",
     "visible": true,
-    "order": 10
+    "order": 20
   },
   {
     "id": "item-msptuq1e-wog46",
@@ -28,22 +44,6 @@
     "postUrl": "",
     "postButtonText": "查看更多",
     "image": "images/product2.jpg",
-    "visible": true,
-    "order": 20
-  },
-  {
-    "id": "snow-factory-2026-06",
-    "brand": "SNOW FACTORY 雪坊精品優格",
-    "title": "SNOW FACTORY 雪坊精品優格",
-    "description": "SNOW FACTORY 雪坊精品優格以細緻滑順的口感與精緻風味為特色，無加糖，淡淡奶香，吃起來非常順口，是補充鈣質與蛋白質的好食品。\n優格商品主打幫助消化的5號 Plus 與改善過敏體質的6號Plus。\n推薦給簡單準備早餐的你、喜歡運動的你、晚上容易嘴饞的你、或是腸胃卡卡的你，不分男女老少，都很適合喔!!",
-    "startDate": "2026-06-15",
-    "endDate": "2026-06-30",
-    "purchaseInfo": "請點下面按鈕連結喔!\n此次合作還有早鳥禮與滿額禮，詳情可以看臉書貼文哦!",
-    "shopUrl": "https://gbf.tw/mxbol",
-    "shopButtonText": "點我到專屬賣場哦",
-    "postUrl": "https://www.facebook.com/share/p/1EfhaVQxRc/",
-    "postButtonText": "更多心得請看臉書貼文",
-    "image": "images/product1.jpg",
     "visible": true,
     "order": 30
   }
